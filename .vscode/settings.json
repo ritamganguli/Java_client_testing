@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "C_Cpp.default.compilerPath": "d:\\LT-appium-java-testng-master\\src\\test\\java\\ios-single.xml"
+}
